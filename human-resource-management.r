@@ -17,7 +17,7 @@
     "# Bikeshare Case Study\n",
     "## Introduction\n",
     "\n",
-    "Dr. Carla Patalano and I created our own HR-related dataset, which is used in one of our graduate MSHRM courses called HR Metrics and Analytics. We use the data set to teach HR students how to use and analyze the data in Tableau Desktop - a data visualization tool that's easy to learn. This version provides a variety of features that are useful for both data visualization AND creating machine learning / predictive analytics models.\n",
+    "Dr. Carla Patalano created our own HR-related dataset, which is used in one of our graduate MSHRM courses called HR Metrics and Analytics. We use the data set to teach HR students how to use and analyze the data in Tableau Desktop - a data visualization tool that's easy to learn. This version provides a variety of features that are useful for both data visualization AND creating machine learning / predictive analytics models.\n",
     "\n",
     "### Objectives\n",
     "\n",
